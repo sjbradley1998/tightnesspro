@@ -8,11 +8,9 @@ Data Collection
 TightnessPro does not collect, transmit, or share any personal data with any third party, server, or external service.
 
 Data Stored Locally
-The app stores the following information locally on your device only:
-Engineer name
-Gas Safe licence number
-
-Both of these are optional.
+The app stores the following information locally on your device only (both optional):
+  - Engineer name
+  - Gas Safe licence number
 
 This information is stored using your device's local storage and never leaves your device. It is used solely to display as part of the tightness test results screen within the app, making it easier to screenshot and add to job card for evidence.
 
